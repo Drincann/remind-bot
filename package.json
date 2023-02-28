@@ -1,0 +1,20 @@
+{
+  "name": "remind-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "mirai-js": "^2.8.9",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/cron": "^2.0.0"
+  }
+}
